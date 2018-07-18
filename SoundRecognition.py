@@ -16,4 +16,5 @@ print(r.recognize_google(audio))
 with harvard as source:
     audio = r.record(source, duration =4)
 
-print(r.recognize_google(audio))
+
+
